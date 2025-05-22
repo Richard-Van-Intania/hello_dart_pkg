@@ -25,11 +25,11 @@ start using the package.
 
 ## Usage
 
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder.
+Add this package
 
 ```dart
-const like = 'sample';
+flutter pub add hello_dart_pkg --git-url=https://github.com/Richard-Van-Intania/hello_dart_pkg
+
 ```
 
 ## Additional information
